@@ -1,4 +1,4 @@
-![Github Stats](https://github-readme-stats-azure-nine.vercel.app/api?username=josephsookim&count_private=true&theme=react&show_icons=true&include_all_commits=true)
+[![Github Stats](https://github-readme-stats-azure-nine.vercel.app/api?username=josephsookim&count_private=true&theme=react&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **josephsookim/josephsookim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
